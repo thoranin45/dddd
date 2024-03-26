@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">dddd</string>
+    <string name="title_activity_main4">MainActivity4</string>
+    <string-array name="server_names">
+        <item>Server 1</item>
+        <item>Server 2</item>
+        <item>Server 3</item>
+        <!-- เพิ่มเซิร์ฟเวอร์ต่าง ๆ ตามต้องการ -->
+    </string-array>
+</resources>

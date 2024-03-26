@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="defaultColor">#727275</color>
+    <color name="Color1">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Color2">#006400</color> <!-- Green for Excellent -->
+    <color name="Color3">#FFFF00</color> <!-- Yellow for Good -->
+    <color name="Color4">#FF00FF</color> <!-- Magenta for Fair -->
+    <color name="Color5">#FF0000</color> <!-- Red for Poor -->
+    <color name="Color6">#00FF00</color> <!-- Green for Excellent -->
+    <color name="Color7">#06ADF1</color> <!-- Yellow for Good -->
+    <color name="Color8">#1438FF</color> <!-- Magenta for Fair -->
+
+</resources>
